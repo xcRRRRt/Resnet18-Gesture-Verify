@@ -1,5 +1,5 @@
 # Resnet-Sign-Language-Classification
-基于残差网络的基础手语分类
+基于残差网络的基础手语分类（PyTorch）
 
 getImage.py: 自己制作训练集
 
